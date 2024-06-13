@@ -46,7 +46,7 @@ Traditional orthodontic evaluations often rely on physical measurements and impr
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/Dental-Structure-Scanner-Using-LiDAR.git
+    git clone https://github.com/fazleo/Dental-Scanner-Using-Lidar-Sensor.git
     cd Dental-Structure-Scanner-Using-LiDAR
     ```
 
