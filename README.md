@@ -80,12 +80,13 @@ This section presents the results of our LiDAR-based dental structure scanner pr
 
 **Scanned Subject:**
 - A simple box with well-defined edges and flat surfaces.
-- ![1_o_real](https://github.com/fazleo/Dental-Scanner-Using-Lidar-Sensor/assets/75975431/265b1fe6-c586-42c7-ac44-8068f01f406c)
+ <img src="https://github.com/fazleo/Dental-Scanner-Using-Lidar-Sensor/assets/75975431/265b1fe6-c586-42c7-ac44-8068f01f406c" width="600" height="600">
 
 **Generated 3D Point Cloud:**
 - The point cloud data formed a grid-like pattern of blue dots, representing precise points in space where the LiDAR’s laser beam reflected off the surface of the box.
 - The uniform distribution of points across the box’s surfaces illustrates the scanner’s ability to systematically and accurately document the object’s form.
-- ![1_o_scan](https://github.com/fazleo/Dental-Scanner-Using-Lidar-Sensor/assets/75975431/91a8d013-bc52-47c8-9c69-ffc7f71c31f9)
+ <img src="https://github.com/fazleo/Dental-Scanner-Using-Lidar-Sensor/assets/75975431/91a8d013-bc52-47c8-9c69-ffc7f71c31f9" width="600" height="600">
+
 
 **Comparison:**
 - The point cloud accurately captured the box’s edges and flat surfaces.
@@ -99,12 +100,12 @@ This section presents the results of our LiDAR-based dental structure scanner pr
 
 **Scanned Subject:**
 - An inverse T-shaped object with complex contours and varying dimensions.
-- ![1_real](https://github.com/fazleo/Dental-Scanner-Using-Lidar-Sensor/assets/75975431/2fd0aea6-6ac3-4c3c-aade-4b38cd1f7a68)
+- <img src="https://github.com/fazleo/Dental-Scanner-Using-Lidar-Sensor/assets/75975431/2fd0aea6-6ac3-4c3c-aade-4b38cd1f7a68" width="800" height="600">
 
 **Generated 3D Point Cloud:**
 - The point cloud data captured the unique contours and edges of the inverse T-shaped object with remarkable fidelity.
 - The dense array of points coalesced into a discernible form, mirroring the object’s geometry.
-- ![scan2](https://github.com/fazleo/Dental-Scanner-Using-Lidar-Sensor/assets/75975431/0853bdf3-97a4-446f-90d5-ab727eee6698)
+ <img src="https://github.com/fazleo/Dental-Scanner-Using-Lidar-Sensor/assets/75975431/0853bdf3-97a4-446f-90d5-ab727eee6698" width="500" height="400">
 
 **Comparison:**
 - The point cloud accurately represented the intricate details of the object, including sharp corners, protrusions, and recesses.
@@ -116,12 +117,14 @@ This section presents the results of our LiDAR-based dental structure scanner pr
 
 **Scanned Subject:**
 - A dental mold representing the complex geometry of dental structures.
-- ![o3](https://github.com/fazleo/Dental-Scanner-Using-Lidar-Sensor/assets/75975431/a733fa82-a978-4b0a-86bf-ac8712ff2d2c)
+<img src="https://github.com/fazleo/Dental-Scanner-Using-Lidar-Sensor/assets/75975431/a733fa82-a978-4b0a-86bf-ac8712ff2d2c" width="600" height="700">
+
 
 **Generated 3D Point Cloud:**
 - The point cloud data provided a detailed representation of the dental mold’s surface topology.
 - The data captured the unique morphology of each tooth, including cusps, ridges, and fissures.
-- ![scanned_Res](https://github.com/fazleo/Dental-Scanner-Using-Lidar-Sensor/assets/75975431/a1bb4f6e-09ac-43d4-9433-1aa987aa08c3)
+ <img src="https://github.com/fazleo/Dental-Scanner-Using-Lidar-Sensor/assets/75975431/a1bb4f6e-09ac-43d4-9433-1aa987aa08c3" width="800" height="700">
+
 
 **Comparison:**
 - The point cloud accurately captured the dental structures, providing a comprehensive dataset for further analysis.
